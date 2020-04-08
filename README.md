@@ -1,0 +1,2 @@
+# ECON374 - Mathematical Economics
+This repository contains code I used on my homeworks for my mathematical economics class. I mainly used the modelling function which allowed me to create variables without assigning them values and seeing how these variables were related to each other and changed under certain conditions. This functionality helped me prove economic theories throughout the semester and model my own.
